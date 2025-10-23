@@ -236,3 +236,4 @@ nbdist/
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij,eclipse,netbeans,visualstudiocode
+/target/
